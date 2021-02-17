@@ -1,0 +1,1 @@
+buatlah algoritma untuk mengurutkan deret angka menggunakan masukkan, tentukan nilai 3 nilai terendah dari nilai siswa itu
